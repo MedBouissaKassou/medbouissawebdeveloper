@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "E-Commerce Platform",
+    "description": "A full-stack e-commerce solution with payment integration, product management, and user authentication.",
+    "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+    "link": "https://expressshop.tn/",
+    "github": "#"
+  },
+  {
+    "id": 2,
+    "title": "Task Management App",
+    "description": "Collaborative task management application with real-time updates and team collaboration features.",
+    "image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["React", "Firebase", "Tailwind CSS", "TypeScript"],
+    "link": "https://play.google.com/store/apps/details?id=com.meisterlabs.meistertask.native",
+    "github": "#"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio CMS",
+    "description": "Content management system for managing portfolio projects with admin dashboard and API.",
+    "image": "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["Next.js", "PostgreSQL", "Prisma", "NextAuth"],
+    "link": "#",
+    "github": "#"
+  },
+  {
+    "id": 4,
+    "title": "E-learning platform",
+    "description": "connecting thousands of students with expert instructors across over 200 courses.",
+    "image": "https://www.entreprises-magazine.com/wp-content/uploads/2022/02/Sans-titre-2.jpg",
+    "technologies": ["React", "Next.js", "PostgreSQL"],
+    "link": "https://almourabi.com/",
+    "github": "#"
+  },
+  {
+    "id": 5,
+    "title": "Social Media Dashboard",
+    "description": "Analytics dashboard for tracking social media metrics across multiple platforms.",
+    "image": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["Vue.js", "D3.js", "Express", "MySQL"],
+    "link": "https://www.dashsocial.com/features/social-media-reporting-dashboards",
+    "github": "#"
+  },
+  {
+    "id": 6,
+    "title": "Chat Application",
+    "description": "Real-time messaging application with group chats, file sharing, and video calls.",
+    "image": "https://images.pexels.com/photos/1739942/pexels-photo-1739942.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "technologies": ["React", "Socket.io", "WebRTC", "Redis"],
+    "link": "https://play.google.com/store/apps/details?id=sunny.live.video.chat.messenger&hl=ln",
+    "github": "#"
+  }
+]
