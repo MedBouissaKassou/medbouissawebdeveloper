@@ -48,7 +48,7 @@
     "id": 6,
     "title": "Chat Application",
     "description": "Real-time messaging application with group chats, file sharing, and video calls.",
-    "image": "https://images.pexels.com/photos/1739942/pexels-photo-1739942.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "image": "https://www.webassetscdn.com/avira/prod-blog/wp-content/uploads/2018/04/chat-apps.jpg",
     "technologies": ["React", "Socket.io", "WebRTC", "Redis"],
     "link": "https://play.google.com/store/apps/details?id=sunny.live.video.chat.messenger&hl=ln",
     "github": "#"
